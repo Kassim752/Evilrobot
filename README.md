@@ -3,7 +3,7 @@
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shrvan42/EvilBot)</p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kassim752/Evilrobot)</p>
 <H2 align=center>___________</h2>
 
 ## Starting the bot.
@@ -34,7 +34,7 @@ The following env variables are supported:
  - `ENV`: Setting this to ANYTHING will enable env variables
  - `TOKEN`: Your bot token.
  - `OWNER_ID`: An integer of consisting of your owner ID
- - `OWNER_USERNAME`: Your username
+ - `OWNER_USERNAME`: kassim_darlzzz 
 
  - `DATABASE_URL`: Your database URL
  - `MESSAGE_DUMP`: optional: a chat where your replied saved messages are stored, to stop people deleting their old 
